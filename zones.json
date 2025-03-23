@@ -18,18 +18,17 @@
     "xiaopanel.biz.id": {
         "zone_id": "7fb7b5a09bb364b55d23de1d3fa1170f",
         "api_key": "7usC23AGB3nzouaoNj6BOTExyUsNaYB0h3XYG27y"
-        }, 
+}, 
+"panelwebsite.biz.id": {
+"zone_id": "2d6aab40136299392d66eed44a7b1122", 
+"api_key": "ImdyjF7XVU7ObDbdCr7LwSUZ4eDQJ-QozAbUIWoF"
+}, 
+"serverku.biz.id": {
+"zone_id": "4e4feaba70b41ed78295d2dcc090dd3a", 
+"api_key": "d6kmqwlvi0qwCyMxoGuc3EBAYRYvbulhjhR9T0I7"
+}, 
 "mypanelstore.web.id": {
 "zone_id": "c61c442d70392500611499c5af816532", 
 "api_key": "ImdyjF7XVU7ObDbdCr7LwSUZ4eDQJ-QozAbUIWoF"
-}, 
-"digitalserver.us.kg": {
-"zone_id": "df13e6e4faa4de9edaeb8e1f05cf1a36", 
-"api_key": "ImdyjF7XVU7ObDbdCr7LwSUZ4eDQJ-QozAbUIWoF"
-}, 
-"shopserver.us.kg": {
-"zone_id": "54ca38e266bfdf2dcdb7f51fd79c2db5", 
-"api_key": "ImdyjF7XVU7ObDbdCr7LwSUZ4eDQJ-QozAbUIWoF"
-    }
+ }
 }
-
