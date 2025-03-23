@@ -1,6 +1,11 @@
 {
-  "ryuuxiao.biz.id":{
-    "zone_id": "9a110b147b5333b4996d5e2bbf33cc7b",
-    "api_key": "W31d_dp9nIf5R46AdTzLFKhLP2p34EWsL_p7r8Z3"
-  }
+    "ryuuxiao.biz.id": {
+        "zone_id": "9a110b147b5333b4996d5e2bbf33cc7b",
+        "api_key": "W31d_dp9nIf5R46AdTzLFKhLP2p34EWsL_p7r8Z3"
+    },
+    "ryuuprivate.web.id": {
+        "zone_id": "ef44b69cb4c8f88f6d39d5388b1b8d85",
+        "api_key": "W31d_dp9nIf5R46AdTzLFKhLP2p34EWsL_p7r8Z3"
+    }
 }
+
