@@ -20,16 +20,16 @@
         "api_key": "7usC23AGB3nzouaoNj6BOTExyUsNaYB0h3XYG27y"
         }, 
 "pteroserver.us.kg": {
-"zone": "f693559a94aebc553a68c27a3ffe3b55", 
-"apitoken": "ImdyjF7XVU7ObDbdCr7LwSUZ4eDQJ-QozAbUIWoF"
+"zone_id": "f693559a94aebc553a68c27a3ffe3b55", 
+"api_key": "ImdyjF7XVU7ObDbdCr7LwSUZ4eDQJ-QozAbUIWoF"
 }, 
 "digitalserver.us.kg": {
-"zone": "df13e6e4faa4de9edaeb8e1f05cf1a36", 
-"apitoken": "ImdyjF7XVU7ObDbdCr7LwSUZ4eDQJ-QozAbUIWoF"
+"zone_id": "df13e6e4faa4de9edaeb8e1f05cf1a36", 
+"api_key": "ImdyjF7XVU7ObDbdCr7LwSUZ4eDQJ-QozAbUIWoF"
 }, 
 "shopserver.us.kg": {
-"zone": "54ca38e266bfdf2dcdb7f51fd79c2db5", 
-"apitoken": "ImdyjF7XVU7ObDbdCr7LwSUZ4eDQJ-QozAbUIWoF"
+"zone_id": "54ca38e266bfdf2dcdb7f51fd79c2db5", 
+"api_key": "ImdyjF7XVU7ObDbdCr7LwSUZ4eDQJ-QozAbUIWoF"
     }
 }
 
