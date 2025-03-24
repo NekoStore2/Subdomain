@@ -30,5 +30,33 @@
 "mypanelstore.web.id": {
 "zone_id": "c61c442d70392500611499c5af816532", 
 "api_key": "ImdyjF7XVU7ObDbdCr7LwSUZ4eDQJ-QozAbUIWoF"
+},
+"rejaxhost1.my.id": {
+"zone_id": "f25a82f7760ffa0c07b07ea9bc5fdfa3", 
+"api_key": "xBIUShzwJGKyl04uV6BHO4lMNZNMe9HtglCBbWdw"
+},
+"rjxpublicserver.web.id": {
+"zone_id": "3bc0f55f315e52d0034230ec2e27eb89", 
+"api_key": "xBIUShzwJGKyl04uV6BHO4lMNZNMe9HtglCBbWdw"
+},
+"rjxprivatserver.web.id": {
+"zone": "5a438947028683f9bf2ab1817a895e48", 
+"api_key": "xBIUShzwJGKyl04uV6BHO4lMNZNMe9HtglCBbWdw"
+},
+"tokopanelku.web.id": {
+"zone_id": "25096f043aa47338a4b29012aee9d2de", 
+"api_key": "xBIUShzwJGKyl04uV6BHO4lMNZNMe9HtglCBbWdw"
+},
+"panelkita.biz.id": {
+"zone_id": "6bfac566a16656ded1b7a46ff36a9e0f", 
+"api_key": "xBIUShzwJGKyl04uV6BHO4lMNZNMe9HtglCBbWdw"
+},
+"storepanelku.biz.id": {
+"zone_id": "956ddc867a5733e1c2f4df11c4ff3186", 
+"api_key": "xBIUShzwJGKyl04uV6BHO4lMNZNMe9HtglCBbWdw"
+},
+"cloud-panelku.biz.id": {
+"zone_id": "54c28ad73116b371235c9ddbac828144", 
+"api_key": "xBIUShzwJGKyl04uV6BHO4lMNZNMe9HtglCBbWdw"
  }
 }
