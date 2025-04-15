@@ -19,7 +19,15 @@
         "zone_id": "7fb7b5a09bb364b55d23de1d3fa1170f",
         "api_key": "W9HfD9LJ8dZIqOpyMWsVkkmNRuu8o8RnKNsWWepU"
 }, 
-"panelwebsite.biz.id": {
+    "ryuushop.web.id": {
+        "zone_id": "7fb7b5a09bb364b55d23de1d3fa1170f",
+        "api_key": "W9HfD9LJ8dZIqOpyMWsVkkmNRuu8o8RnKNsWWepU"
+}, 
+        "xiaopanel.biz.id": {
+        "zone_id": "7fb7b5a09bb364b55d23de1d3fa1170f",
+        "api_key": "W9HfD9LJ8dZIqOpyMWsVkkmNRuu8o8RnKNsWWepU"
+}, 
+"ryuushop.xyz": {
 "zone_id": "2d6aab40136299392d66eed44a7b1122", 
 "api_key": "ImdyjF7XVU7ObDbdCr7LwSUZ4eDQJ-QozAbUIWoF"
 }, 
